@@ -1,5 +1,5 @@
 require 'rubygems'
 require 'sinatra'
-require "search"
+require "kazekage"
 
 run Sinatra::Application
